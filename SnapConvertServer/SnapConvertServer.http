@@ -1,0 +1,6 @@
+@SnapConvertServer_HostAddress = http://localhost:5241
+
+GET {{SnapConvertServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
